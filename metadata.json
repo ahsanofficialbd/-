@@ -1,0 +1,6 @@
+{
+  "name": "জ্ঞানকোষ GK Master - সাধারণ জ্ঞান কুইজ",
+  "description": "বাংলা ও ইংরেজি সাধারণ জ্ঞান কুইজ মোবাইল অ্যাপ - বিসিএস, সরকারি চাকরি পরীক্ষা, শিক্ষার্থী ও কুইজপ্রেমীদের জন্য ইন্টারেক্টিভ কুইজ প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
